@@ -1,0 +1,36 @@
+﻿PID,Proctor,Condition,Score,Gender,Age,College,How much they like history
+1,Team,Experimental,8,Male,19,Khoury,2
+2,Team,Experimental,5,Female,19,Khoury,4
+3,Team,Experimental,2,Female,21,Khoury,1
+4,Team,Experimental,3,Female,20,Khoury,2
+5,Ben,Experimental,8,Male,22,Khoury,1
+6,Team,Experimental,7,Female,18,Khoury,4
+7,Team,Experimental,6,Male,22,Khoury,1
+8,Team,Experimental,3,Female,21,Khoury,4
+9,Blake,Experimental,8,Male,19,D'More-Mckim,1
+10,Blake,Experimental,9,Non-binary / third gender,20,CAMD,1
+11,Ben,Experimental,4,Male,21,College of Social Sciences and Humanities,1
+12,Ben,Experimental,8,Male,22,D'More-Mckim,"1,5"
+13,Ben,Experimental,2,Female,19,College of Engineering,2
+14,Blake,Experimental,9,Male,19,College of Engineering,"2,3"
+15,Blake,Experimental,6,Male,19,College of Social Sciences and Humanities,2
+16,Blake,Experimental,9,Male,19,College of Engineering,2
+17,Josh,Experimental,6,Non-binary / third gender,22,College of Engineering,4
+18,Josh,Experimental,5,Male,21,Khoury,2
+19,Andre,Control,7,Female,21,Khoury,1
+20,Blake,Control,10,Male,19,Khoury,2
+21,Blake,Control,10,Male,20,D'More-Mckim,1
+22,Blake,Control,8,Male,20,Khoury,2
+23,Ben,Control,4,Male,22,D'More-Mckim,1
+24,Ben,Control,9,Male,21,D'More-Mckim,1
+25,Ben,Control,5,Male,22,D'More-Mckim,5
+26,Ben,Control,9,Male,22,Khoury,3
+27,Andre,Control,9,Male,21,Other,3
+28,Andre,Control,7,Male,20,Other,1
+29,Andre,Control,3,Male,19,Other,1
+30,Andre,Control,8,Male,20,Other,4
+31,Andre,Control,3,Male,20,Other,2
+32,Andre,Control,6,Male,20,Other,1
+33,Andre,Control,9,Female,20,Other,"1,2"
+34,Josh,Control,6,Male,22,College of Social Sciences and Humanities,1
+35,Josh,Control,5,Female,23,,2
